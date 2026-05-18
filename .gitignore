@@ -1,0 +1,10 @@
+__pycache__/
+*.pt
+*.mp4
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+
+
+
+
