@@ -1,0 +1,5 @@
+video_name,manual_label,system_label,error_type,reason
+tailgating_tiral_t14.mp4,NOT_TAILGATE,TAILGATE,FP,person lingered near scanner and never crossed gate; crossing zone too permissive
+tailgating_tiral_t15.mp4,NOT_TAILGATE,TAILGATE,FP,person lingered near scanner and never crossed gate; crossing zone too permissive
+tailgating_tiral_t17.mp4,NOT_TAILGATE,TAILGATE,FP,multiple failed scans while standing near scanner; no actual crossing
+tailgating_tiral_t18.mp4,NOT_TAILGATE,TAILGATE,FP,person lingered near scanner and never crossed gate; no actual crossing
