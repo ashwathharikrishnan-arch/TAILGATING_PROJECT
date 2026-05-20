@@ -1,9 +1,9 @@
 video_name,manual_label,manual_count,manual_notes
 tailgating_tiral_t9.mp4,TAILGATE,1,one person followed by another w/o auth
-tailgating_tiral_t10.mp4,TAILGATE,1,one person walked out without scanning entry scanner
+tailgating_tiral_t10.mp4,TAILGATE,2,two persons walked out without scanning entry scanner
 tailgating_tiral_t11.mp4,TAILGATE,1,one person walked out without scanning entry scanner
 tailgating_tiral_t12.mp4,TAILGATE,1,one person jumped over without scanning entry scanner
-tailgating_tiral_t13.mp4,TAILGATE,2,two people crossed without scanning at entry
+tailgating_tiral_t13.mp4,TAILGATE,1,one person crossed without scanning at entry
 tailgating_tiral_t14.mp4,NOT_TAILGATE,0,-
 tailgating_tiral_t15.mp4,NOT_TAILGATE,0,-
 tailgating_tiral_t16.mp4,NOT_TAILGATE,0,-
